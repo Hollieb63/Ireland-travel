@@ -190,7 +190,8 @@ display: block;
 aspect-ratio: 1/1;
 }
 #westport{
-    width:150px;
+    width:350px;
+    background-position: center;
 }
 .embed{
     width: 100%;
@@ -239,7 +240,7 @@ display: none;
 }
 @media(min-width:1500px){
     main{
-  width:75%;
+  width:74%;
   margin-left: auto;
   margin-right: auto;
     }
