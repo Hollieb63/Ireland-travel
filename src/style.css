@@ -234,7 +234,7 @@ display: none;
     }
 
 }
-@media(min-width:3670px){
+@media(min-width:2600px){
     main{
   width:55%;
   margin-left: auto;
